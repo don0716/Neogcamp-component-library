@@ -2,7 +2,7 @@
 
 :root {
     --primary-color:#201b86;
-    --bright-primary-color:#4741c0;
+    --bright-primary-color:#6a65be;
     --dark-gray:#4B5563;
     --off-white:#E5E7EB;
 }
@@ -49,7 +49,7 @@ hr {
     transition-duration: 1.5s;
 }
 
-.link-secondary:hover, .link-primary:hover{
+.link-secondary:hover, .link-primary:hover, .link:hover{
     background-color: var(--bright-primary-color);
 }
 
@@ -118,7 +118,7 @@ hr {
 
 .section {
     padding: 2rem;
-    box-shadow: 10px 10px 60px 10px var(--primary-color) ;
+    box-shadow: 10px 10px 60px 10px var(--bright-primary-color) ;
 }
 
 .section h1 {
