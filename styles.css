@@ -77,10 +77,6 @@ hr {
     text-align: right;
 }
 
-.link:hover{
-    background-color: var(--bright-primary-color);
-    border-radius: 2rem;
-}
 
 .navigation .nav-brand {
     font-weight: bold;
