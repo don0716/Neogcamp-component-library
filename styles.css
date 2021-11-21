@@ -49,7 +49,7 @@ hr {
     transition-duration: 1.5s;
 }
 
-.link-secondary:hover, .link-primary:hover, .link:hover{
+.link-secondary:hover, .link-primary:hover{
     background-color: var(--bright-primary-color);
 }
 
@@ -165,7 +165,6 @@ footer {
 }
 
 
-.tech-imgs{
+{
     display: inline;
-    width: 10%;
 }
